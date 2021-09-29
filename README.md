@@ -1,6 +1,6 @@
 # API-python
 Is the email used or available?
-- the api checks the email if it is not available you will get an output ( True )
+- the api checks the email if it is not available you will get an output(True)
 - And if the email is available, you will get a result ( False )
 - #Code python 
 - More >> [ <a class="" href="https://github.com/vv1ck/API-JavaScript">api-JavaScript</a> | <a class="" href="https://github.com/vv1ck/API-php">api-php</a> ]
