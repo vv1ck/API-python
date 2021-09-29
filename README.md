@@ -5,4 +5,32 @@ Is the email used or available?
 - #Code python
 -----------------
 install linux:
-
+<!--START_SECTION:waka-->
+```
+git clone https://github.com/vv1ck/API-python.git
+```
+<!--END_SECTION:waka-->
+------------------
+run the api :
+<!--START_SECTION:waka-->
+```
+cd API-python
+```
+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+```
+pip install flask
+```
+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+```
+python3 api.py
+```
+<!--END_SECTION:waka-->
+- Open the link in the browser:
+<!--START_SECTION:waka-->
+```
+http://127.0.0.1:5000/email=email@email.com
+```
+<!--END_SECTION:waka-->
+- 
