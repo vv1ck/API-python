@@ -10,7 +10,7 @@ It checks the email on these domains :
 - @yahoo.com | @mail.com
 - @outlook.com | Some other domains
 -----------------
-install linux:
+install in kali linux:
 <!--START_SECTION:waka-->
 ```
 git clone https://github.com/vv1ck/API-python.git
