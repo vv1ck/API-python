@@ -11,7 +11,7 @@ It checks the email on these domains :
 - @yahoo.com | @mail.com
 - @outlook.com | Some other domains
 -----------------
-install in kali linux:
+install in server :
 <!--START_SECTION:waka-->
 ```
 git clone https://github.com/vv1ck/API-python.git
