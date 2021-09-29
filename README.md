@@ -30,7 +30,7 @@ python3 api.py
 - Open the link in the browser:
 <!--START_SECTION:waka-->
 ```
-http://127.0.0.1:5000/email=email@email.com
+http://127.0.0.1:5000/email=Put email
 ```
 <!--END_SECTION:waka-->
 - 
