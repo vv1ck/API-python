@@ -5,6 +5,11 @@ Is the email used or available?
 - #Code python
 - test >> 
 -----------------
+It checks the email on these domains :
+- @gmail.com | @hotmail.com
+- @yahoo.com | @mail.com
+- @outlook.com | Some other domains
+-----------------
 install linux:
 <!--START_SECTION:waka-->
 ```
@@ -34,4 +39,7 @@ python3 api.py
 http://127.0.0.1:5000/email=Put email
 ```
 <!--END_SECTION:waka-->
-- 
+--------------------
+By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a>
+-
+see
