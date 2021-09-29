@@ -3,7 +3,7 @@ from requests import post
 api=Flask(__name__)
 
 
-@api.route('/<email>')
+@api.route('/email=<email>')
 def api_email(email):
     send=post(f'https://odc.officeapps.live.com/odc/emailhrd/getidp?hm=0&emailAddress={email}',headers={
         "Host": "odc.officeapps.live.com","Accept": "*/*",
