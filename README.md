@@ -10,7 +10,7 @@ It checks the email on these domains :
 - @gmail.com | @hotmail.com
 - @yahoo.com | @mail.com
 - @outlook.com | Some other domains
------------------
+------------------
 install in server :
 <!--START_SECTION:waka-->
 ```
